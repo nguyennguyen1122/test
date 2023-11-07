@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define MAX 10
+#define MAX 20
 void NhapMang(int a[], int& n)
 {
 	cout << "Nhap so phan tu "; cin >> n;
